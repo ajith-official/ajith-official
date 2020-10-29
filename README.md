@@ -14,6 +14,8 @@ Here you can know more about me:
 - 😄 Pronouns: <b>He/His</b>
 - ⚡ Fun fact: <b>Mad on Music, love with learning</b>
 
+<img src="https://raw.githubusercontent.com/ajith-official/ajith-official/master/Ajithkumar%20Portfolio.png">
+
 <details open>
 <summary>🤝 <b>Feel Free to connect with me</b></summary>
 <p align = "center">
