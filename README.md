@@ -1,5 +1,6 @@
+# Ajithkumar A
+
 ### Hi there 👋 
-### I am Ajithkumar🥰
 <!--
 **ajith-official/ajith-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -29,3 +30,12 @@ Here you can know more about me:
 [<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCyWiONGlBGKOQ_l9VQKFagA?sub_confirmation=1)
 </p>
 </details>
+
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajith-official&show_icons=true&theme=gotham" alt="Ajithkumar | Stats" />
+
+</details>
+
+![Visitor Count](https://profile-counter.glitch.me/{ajith-official}/count.svg)
