@@ -40,3 +40,7 @@ Here you can know more about me:
 </details>
 
 ![Visitor Count](https://profile-counter.glitch.me/{ajith-official}/count.svg)
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith-official&layout=compact" alt="ajith-official" />
+</p>
