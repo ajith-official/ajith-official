@@ -32,6 +32,17 @@ Here you can know more about me:
 </p>
 </details>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajith-official" alt="Ajithkumar" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ajith-official&show_icons=true&hide_border=true" alt="Ajithkumar" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith-official&layout=compact" alt="Ajithkumar" />
+</p>
+
+
 <details>
 <summary>📊 Github Stats</summary>
 
