@@ -43,15 +43,8 @@ Here you can know more about me:
 </p>
 
 
-<details>
-<summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajith-official&show_icons=true&theme=gotham" alt="Ajithkumar | Stats" />
-
-</details>
 
 ![Visitor Count](https://profile-counter.glitch.me/{ajith-official}/count.svg)
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith-official&layout=compact" alt="ajith-official" />
-</p>
+
