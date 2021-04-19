@@ -1,22 +1,12 @@
-# Ajithkumar A
+# Hi there 👋 
+# Myself Ajithkumar
 
-### Hi there 👋 
 <!--
 **ajith-official/ajith-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here you can know more about me:
-
-- 🔭 I’m currently working on <b>Developing my skills.</b>
-- 🌱 I’m currently learning <b>Amazon Web Services.</b>
-- 👯 I’m looking to collaborate on <b>Linkedin.</b>
-- 🤔 I’m looking for help with <b>Guidance on AWS.</b>
-- 💬 Ask me about <b>Mentorship, Community Building.</b>
-- 📫 How to reach me: <b>[LinkedIn](https://www.linkedin.com/in/indajith)</b>
-- 😄 Pronouns: <b>He/His</b>
-- ⚡ Fun fact: <b>Mad on Music, love with learning</b>
 
 <details open>
-<summary>🤝 <b>Feel Free to connect with me</b></summary>
+<summary><b>Feel Free to connect with me</b></summary>
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ajith_official_) 
